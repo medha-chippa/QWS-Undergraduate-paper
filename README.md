@@ -1,13 +1,8 @@
 # Application of Machine Learning Techniques to Classify Web Services
 
-This 
-paper proposes machine learning models that could be used 
-to classify these web services viz., K-Nearest Neighbors 
-(KNN), Naïve Bayes (Gaussian Naïve Bayes Classifier), 
-Kernel Support Vector Machine Classifier (Kernel SVM), 
-linear SVM, Decision Trees and Random Forests. The QWS 
-(Quality Web Services) dataset has been used for 
-classification and analysis
+This paper proposes machine learning models that could be used to classify these web services viz., K-Nearest Neighbors (KNN), Naïve Bayes (Gaussian Naïve Bayes Classifier), Kernel Support Vector Machine Classifier (Kernel SVM), linear SVM, Decision Trees and Random Forests. The QWS (Quality Web Services) dataset has been used for classification and analysis
+
+URL: https://ieeexplore.ieee.org/document/8951339
 
 # Flow Diagram
 
