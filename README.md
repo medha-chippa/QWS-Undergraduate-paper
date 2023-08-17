@@ -1,4 +1,4 @@
-# QWS_IEEE_Paper
+# Application of Machine Learning Techniques to Classify Web Services
 
 This 
 paper proposes machine learning models that could be used 
